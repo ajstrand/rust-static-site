@@ -1,0 +1,24 @@
+# node, rust, mac osx files
+/target/
+**/*.rs.bk
+
+/.DS_Store
+
+node_modules/
+
+.cache/
+.vscode
+
+#ignoring latex build files
+
+*.aux
+
+*.log
+
+*.out
+
+*.synctex.gz
+
+*.fdb_latexmk
+
+*.fls
